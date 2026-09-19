@@ -4,7 +4,7 @@ Predicting the next-day price direction (up/down) of the Nifty 50 index using
 technical indicators and classical machine learning models.
 
 ## Status
-🚧 In progress — building step by step.
+✅ Complete — see Results below.
 
 ## Project Overview
 This project builds an end-to-end ML pipeline that:
@@ -36,7 +36,7 @@ nifty50-direction-prediction/
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/nifty50-direction-prediction.git
+git clone https://github.com/<parthsharmaww-ai>/nifty50-direction-prediction.git
 cd nifty50-direction-prediction
 python -m venv venv
 venv\Scripts\activate      # Windows
